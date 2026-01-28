@@ -14,6 +14,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a MERN Stack Developer at [Bonwic Technologies Pvt. Ltd.](https://www.bonwic.com/);
+- 💼 Currently pursuing my MCA in AI/ML from [Amity University Noida](https://www.amity.edu/);
 - 💼 I’ve completed my Bachelor's degree in Computer Application at [Mirza Ghalib College, Magadh University](https://mirzaghalibcollegegaya.ac.in/);
 - 🤔 My interests are with Web App Development 🖥️, AI 🤖, Music 🎶, Space 🚀, Astro Physics etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
